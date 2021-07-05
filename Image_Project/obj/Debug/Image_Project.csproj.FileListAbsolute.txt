@@ -1,0 +1,22 @@
+C:\Users\HP\source\repos\Image_Project\Image_Project\bin\Debug\Image_Project.exe.config
+C:\Users\HP\source\repos\Image_Project\Image_Project\bin\Debug\Image_Project.exe
+C:\Users\HP\source\repos\Image_Project\Image_Project\bin\Debug\Image_Project.pdb
+C:\Users\HP\source\repos\Image_Project\Image_Project\obj\Debug\Image_Project.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Image_Project\Image_Project\obj\Debug\Image_Project.Homepage.resources
+C:\Users\HP\source\repos\Image_Project\Image_Project\obj\Debug\Image_Project.Properties.Resources.resources
+C:\Users\HP\source\repos\Image_Project\Image_Project\obj\Debug\Image_Project.spatialfilters.resources
+C:\Users\HP\source\repos\Image_Project\Image_Project\obj\Debug\Image_Project.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Image_Project\Image_Project\obj\Debug\Image_Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Image_Project\Image_Project\obj\Debug\Image_Project.exe
+C:\Users\HP\source\repos\Image_Project\Image_Project\obj\Debug\Image_Project.pdb
+E:\College\-CS486 Image Processing\Image_Project\Image_Project\Image_Project\bin\Debug\Image_Project.exe.config
+E:\College\-CS486 Image Processing\Image_Project\Image_Project\Image_Project\bin\Debug\Image_Project.exe
+E:\College\-CS486 Image Processing\Image_Project\Image_Project\Image_Project\bin\Debug\Image_Project.pdb
+E:\College\-CS486 Image Processing\Image_Project\Image_Project\Image_Project\obj\Debug\Image_Project.csprojAssemblyReference.cache
+E:\College\-CS486 Image Processing\Image_Project\Image_Project\Image_Project\obj\Debug\Image_Project.Homepage.resources
+E:\College\-CS486 Image Processing\Image_Project\Image_Project\Image_Project\obj\Debug\Image_Project.Properties.Resources.resources
+E:\College\-CS486 Image Processing\Image_Project\Image_Project\Image_Project\obj\Debug\Image_Project.spatialfilters.resources
+E:\College\-CS486 Image Processing\Image_Project\Image_Project\Image_Project\obj\Debug\Image_Project.csproj.GenerateResource.cache
+E:\College\-CS486 Image Processing\Image_Project\Image_Project\Image_Project\obj\Debug\Image_Project.csproj.CoreCompileInputs.cache
+E:\College\-CS486 Image Processing\Image_Project\Image_Project\Image_Project\obj\Debug\Image_Project.exe
+E:\College\-CS486 Image Processing\Image_Project\Image_Project\Image_Project\obj\Debug\Image_Project.pdb
